@@ -1,0 +1,22 @@
+.body{
+    height: 350px;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+    border: 10px solid brown;
+    padding-top: 40px;
+    margin-left: 170px;
+    margin-top: 70px;
+}
+.body .header span{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 1000px;
+    font-style: italic;
+}
+.signup p a{
+    text-decoration: none;
+}
+.signup p{
+    margin-left: 60px;
+}
